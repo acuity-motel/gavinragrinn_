@@ -7,3 +7,4 @@ The only way to do great work is to love what you do. Security Machine Learning 
 Python DNS Routing Cloud Message Queue Logging IoT Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment A/B Testing
 Dream big and dare to fail. Zero Downtime Deployment Load Balancing Predictive Analytics Database Indexing Work hard in silence, let your success be your noise. WebSockets Distributed Systems
 Serverless Automation Version Control NLP Data Science API Gateway A/B Testing Virtual Machines Predictive Analytics IoT Testing
+Content Delivery Network Microservices Big Data To be the best, you must be able to handle the worst. IoT Work hard in silence, let your success be your noise. Opportunities don't happen. You create them. Database Indexing UX Optimization Load Balancing
