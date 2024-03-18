@@ -6,3 +6,4 @@ Framework Opportunities don't happen. You create them. GraphQL Microservices API
 The only way to do great work is to love what you do. Security Machine Learning CI/CD Container Orchestration Event Sourcing If you can dream it, you can do it.
 Python DNS Routing Cloud Message Queue Logging IoT Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment A/B Testing
 Dream big and dare to fail. Zero Downtime Deployment Load Balancing Predictive Analytics Database Indexing Work hard in silence, let your success be your noise. WebSockets Distributed Systems
+Serverless Automation Version Control NLP Data Science API Gateway A/B Testing Virtual Machines Predictive Analytics IoT Testing

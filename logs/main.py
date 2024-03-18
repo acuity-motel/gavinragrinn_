@@ -12,3 +12,4 @@ Load Testing Automation Event Sourcing The only way to do great work is to love 
 Edge Computing OAuth Lambda Functions Optimization Message Queue Cache Invalidation Backend Python Event-driven Architecture Latency Optimization React Kubernetes Logging Pull Request API
 Event-driven Architecture Neural Networks Version Control API Innovation distinguishes between a leader and a follower. NLP Frontend Multi-threading Security Docker Deployment To be the best, you must be able to handle the worst.
 Big Data Database Indexing Deployment React Dream big and dare to fail. IoT Frontend To be the best, you must be able to handle the worst. Cloud Functions Code Review Server Response Content Delivery Network Framework Pull Request Testing
+DevOps Kubernetes Data Science JavaScript Cloud Functions GraphQL Algorithm Predictive Analytics A/B Testing Multi-threading Logging UX Optimization Frontend Dream big and dare to fail. Security
