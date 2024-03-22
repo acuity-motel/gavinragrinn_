@@ -11,3 +11,4 @@ Happiness is not something ready made. It comes from your own actions. If you ca
 Code Review Monitoring DevOps To be the best, you must be able to handle the worst. Testing Distributed Systems
 Blockchain Difficult roads often lead to beautiful destinations. Sharding Kubernetes Great things never come from comfort zones. Do what you love and the money will follow. Distributed Systems Parallel Processing
 Security OAuth Microservices Do what you love and the money will follow. Success is not in what you have, but who you are.
+Message Queue Do what you love and the money will follow. Containerization A/B Testing Multi-threading Stay hungry, stay foolish. Deployment Predictive Analytics Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Event Sourcing Success is not in what you have, but who you are. Monitoring If you can dream it, you can do it.
