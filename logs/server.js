@@ -10,3 +10,4 @@ Load Balancing Neural Networks Container Orchestration Kubernetes Difficult road
 Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it. I find that the harder I work, the more luck I seem to have. Docker NLP Monitoring Automation Algorithm Kafka Parallel Processing Cloud Functions Neural Networks Message Queue Quantum Computing
 Code Review Monitoring DevOps To be the best, you must be able to handle the worst. Testing Distributed Systems
 Blockchain Difficult roads often lead to beautiful destinations. Sharding Kubernetes Great things never come from comfort zones. Do what you love and the money will follow. Distributed Systems Parallel Processing
+Security OAuth Microservices Do what you love and the money will follow. Success is not in what you have, but who you are.
