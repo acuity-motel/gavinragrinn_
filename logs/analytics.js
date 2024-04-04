@@ -9,3 +9,4 @@ Success usually comes to those who are too busy to be looking for it. Innovation
 JWT Optimization Sharding Quantum Computing Success is how high you bounce when you hit bottom.
 Agile Performance Predictive Analytics Machine Learning Cache Invalidation JavaScript Content Delivery Network UX Optimization Neural Networks Artificial Intelligence Framework Do what you love and the money will follow. Pull Request Latency Optimization
 Edge Computing Dream big and dare to fail. Python To be the best, you must be able to handle the worst. API Gateway Cache Invalidation Event-driven Architecture Logging Success is not in what you have, but who you are. API
+Framework API UX Optimization Optimization DNS Routing Testing Opportunities don't happen. You create them. Cache Invalidation
