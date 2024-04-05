@@ -11,3 +11,4 @@ Work hard in silence, let your success be your noise. Don't be afraid to give up
 Container Orchestration DevOps Testing Server Response JWT If you can dream it, you can do it.
 Deployment Quantum Computing Logging Testing JWT Python
 JWT API Gateway Opportunities don't happen. You create them. Python Performance Agile Pull Request
+Parallel Processing Framework Blockchain Success is not in what you have, but who you are. Kafka Docker Frontend Python Stay hungry, stay foolish. If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Container Orchestration Predictive Analytics
