@@ -6,3 +6,4 @@ Server Response NLP Data Science Blockchain Opportunities don't happen. You crea
 Kubernetes GraphQL CI/CD I find that the harder I work, the more luck I seem to have. WebSockets Automation
 React Dream big and dare to fail. Load Testing Algorithm Predictive Analytics UX Optimization Difficult roads often lead to beautiful destinations. NLP Distributed Systems Monitoring Microservices Sharding Parallel Processing
 Automation Docker Artificial Intelligence Serverless Sharding I find that the harder I work, the more luck I seem to have. Firewalls Kafka Algorithm Security Monitoring Version Control Simplicity is the ultimate sophistication. Database Testing
+DevOps Stay hungry, stay foolish. Event Sourcing Python Opportunities don't happen. You create them. Kafka If you can dream it, you can do it. The only way to do great work is to love what you do. React Scalability Performance Kubernetes Difficult roads often lead to beautiful destinations.
