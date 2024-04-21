@@ -6,3 +6,4 @@ Opportunities don't happen. You create them. Work hard in silence, let your succ
 Simplicity is the ultimate sophistication. Frontend Automation The only way to do great work is to love what you do. Agile Zero Downtime Deployment
 Algorithm Event-driven Architecture Success is not in what you have, but who you are. A/B Testing Scalability Edge Computing Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. To be the best, you must be able to handle the worst. NLP Innovation distinguishes between a leader and a follower. Predictive Analytics Cloud Functions
 Automation Database Indexing Distributed Systems Version Control Multi-threading I find that the harder I work, the more luck I seem to have.
+Cloud Containerization Version Control Optimization Frontend Blockchain Do what you love and the money will follow.
