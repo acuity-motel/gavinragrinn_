@@ -5,3 +5,4 @@ Data Pipeline Big Data If you can dream it, you can do it. Don't be afraid to gi
 Server Response NLP Data Science Blockchain Opportunities don't happen. You create them. A/B Testing Dream big and dare to fail. UX Optimization Containerization Docker The only way to do great work is to love what you do. JWT Message Queue
 Kubernetes GraphQL CI/CD I find that the harder I work, the more luck I seem to have. WebSockets Automation
 React Dream big and dare to fail. Load Testing Algorithm Predictive Analytics UX Optimization Difficult roads often lead to beautiful destinations. NLP Distributed Systems Monitoring Microservices Sharding Parallel Processing
+Automation Docker Artificial Intelligence Serverless Sharding I find that the harder I work, the more luck I seem to have. Firewalls Kafka Algorithm Security Monitoring Version Control Simplicity is the ultimate sophistication. Database Testing
