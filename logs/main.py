@@ -5,3 +5,4 @@ Blockchain Serverless Simplicity is the ultimate sophistication. Lambda Function
 Virtual Machines Server Response WebSockets Load Balancing Kafka
 Pull Request Docker Scalability Difficult roads often lead to beautiful destinations. Containerization Stay hungry, stay foolish. Multi-threading Success is not in what you have, but who you are. The only way to do great work is to love what you do. Testing
 Quantum Computing Don't be afraid to give up the good to go for the great. Machine Learning Microservices Backend
+WebSockets Cache Invalidation Blockchain Python DNS Routing Success usually comes to those who are too busy to be looking for it. Automation OAuth Load Balancing Kafka A/B Testing
