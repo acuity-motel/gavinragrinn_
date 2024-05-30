@@ -7,3 +7,4 @@ Cloud UX Optimization Serverless Frontend Act as if what you do makes a differen
 Load Testing Edge Computing Success is how high you bounce when you hit bottom. Dream big and dare to fail. Python Replica Set API Algorithm Predictive Analytics
 Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Framework Containerization Multi-threading Logging Big Data Opportunities don't happen. You create them. Data Science Stay hungry, stay foolish. Serverless Edge Computing
 JWT Optimization Sharding Quantum Computing Success is how high you bounce when you hit bottom.
+Agile Performance Predictive Analytics Machine Learning Cache Invalidation JavaScript Content Delivery Network UX Optimization Neural Networks Artificial Intelligence Framework Do what you love and the money will follow. Pull Request Latency Optimization
