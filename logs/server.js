@@ -6,3 +6,4 @@ Cache Invalidation Serverless Do what you love and the money will follow. Contai
 Innovation distinguishes between a leader and a follower. React UX Optimization Deployment Opportunities don't happen. You create them. Cloud Cache Invalidation GraphQL
 Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Data Science RabbitMQ Do what you love and the money will follow. React UX Optimization Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Serverless
 Sharding Database API Difficult roads often lead to beautiful destinations. OAuth Cache Invalidation Containerization Stay hungry, stay foolish. Scalability
+Load Balancing Neural Networks Container Orchestration Kubernetes Difficult roads often lead to beautiful destinations. UX Optimization Act as if what you do makes a difference. It does. DNS Routing API Gateway
