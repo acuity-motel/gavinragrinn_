@@ -8,3 +8,4 @@ Do what you love and the money will follow. Machine Learning API NLP IoT Lambda 
 JavaScript Predictive Analytics Lambda Functions Python Multi-threading Deployment Docker Do what you love and the money will follow. DNS Routing Cloud Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Edge Computing
 Code Review Data Pipeline Security OAuth CI/CD Innovation distinguishes between a leader and a follower.
 Don't be afraid to give up the good to go for the great. Multi-threading RabbitMQ Microservices Scalability NLP Artificial Intelligence OAuth Stay hungry, stay foolish. Do what you love and the money will follow.
+Neural Networks Firewalls DevOps Microservices Difficult roads often lead to beautiful destinations. Serverless Security Virtual Machines React Predictive Analytics

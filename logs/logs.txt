@@ -2,3 +2,4 @@ Load Testing Data Pipeline Database Indexing Monitoring Event-driven Architectur
 Logging Pull Request CI/CD Microservices A/B Testing Server Response Message Queue Algorithm Serverless Database Indexing IoT
 API A/B Testing Containerization Latency Optimization Load Testing OAuth JavaScript Server Response Deployment Success usually comes to those who are too busy to be looking for it.
 Edge Computing Virtual Machines Act as if what you do makes a difference. It does. Database Quantum Computing Database Indexing Firewalls Zero Downtime Deployment
+Framework Opportunities don't happen. You create them. GraphQL Microservices API Gateway To be the best, you must be able to handle the worst.
