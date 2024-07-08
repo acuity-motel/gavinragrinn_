@@ -6,3 +6,4 @@ Machine Learning To be the best, you must be able to handle the worst. Neural Ne
 JavaScript Event-driven Architecture Optimization Deployment Load Testing Event Sourcing Backend Docker Cloud Functions Great things never come from comfort zones. Container Orchestration
 Database A/B Testing DNS Routing To be the best, you must be able to handle the worst. Data Science Logging Replica Set Kubernetes Big Data Quantum Computing
 Firewalls The only way to do great work is to love what you do. Deployment React UX Optimization
+Testing Success is how high you bounce when you hit bottom. Parallel Processing Sharding Load Testing RabbitMQ Pull Request Difficult roads often lead to beautiful destinations. Machine Learning Monitoring Event Sourcing Simplicity is the ultimate sophistication. Latency Optimization
