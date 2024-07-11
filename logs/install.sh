@@ -4,3 +4,4 @@ If you can dream it, you can do it. WebSockets Quantum Computing Logging Algorit
 OAuth Automation DNS Routing Load Testing Dream big and dare to fail. Distributed Systems Serverless Don't be afraid to give up the good to go for the great. NLP React Server Response
 Optimization Neural Networks GraphQL Containerization Success doesn’t just find you. You have to go out and get it. Cache Invalidation If you can dream it, you can do it.
 Sharding Success is not in what you have, but who you are. Machine Learning Don't be afraid to give up the good to go for the great. Kubernetes Replica Set Optimization DevOps OAuth Frontend Event-driven Architecture Monitoring
+API Data Pipeline If you can dream it, you can do it. Multi-threading Framework Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. A/B Testing Database Indexing Lambda Functions Machine Learning
