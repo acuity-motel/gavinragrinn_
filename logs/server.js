@@ -2,3 +2,4 @@ Edge Computing Performance Machine Learning Frontend Docker Great things never c
 Framework JWT Distributed Systems Great things never come from comfort zones. Scalability
 Event-driven Architecture Agile Quantum Computing Distributed Systems Cache Invalidation
 If you can dream it, you can do it. Work hard in silence, let your success be your noise. Great things never come from comfort zones. Multi-threading Event-driven Architecture Cloud Data Pipeline Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Quantum Computing Distributed Systems Message Queue
+Cache Invalidation Serverless Do what you love and the money will follow. Containerization Optimization Load Testing React RabbitMQ WebSockets Database Indexing Frontend
