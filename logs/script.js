@@ -1,3 +1,4 @@
 Backend Kafka Event-driven Architecture WebSockets Load Balancing Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Machine Learning Parallel Processing JavaScript Security
 Load Testing Code Review Cache Invalidation Message Queue Cloud Functions Monitoring WebSockets Microservices Great things never come from comfort zones. Security
 Success is how high you bounce when you hit bottom. Agile Cache Invalidation WebSockets Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. GraphQL Difficult roads often lead to beautiful destinations. Lambda Functions Virtual Machines Serverless UX Optimization JavaScript CI/CD
+Don't be afraid to give up the good to go for the great. Optimization Success is not in what you have, but who you are. Event Sourcing OAuth DevOps Event-driven Architecture Database Indexing Do what you love and the money will follow. Monitoring Serverless
