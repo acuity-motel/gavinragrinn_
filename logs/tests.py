@@ -6,3 +6,4 @@ Stay hungry, stay foolish. Automation Virtual Machines JWT Content Delivery Netw
 Multi-threading Containerization Docker Innovation distinguishes between a leader and a follower. Kafka
 Do what you love and the money will follow. Machine Learning API NLP IoT Lambda Functions Blockchain Kafka Security Cloud Work hard in silence, let your success be your noise. Neural Networks JWT Frontend Success usually comes to those who are too busy to be looking for it.
 JavaScript Predictive Analytics Lambda Functions Python Multi-threading Deployment Docker Do what you love and the money will follow. DNS Routing Cloud Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it. Edge Computing
+Code Review Data Pipeline Security OAuth CI/CD Innovation distinguishes between a leader and a follower.
