@@ -6,3 +6,4 @@ Serverless Distributed Systems Cloud Logging NLP Simplicity is the ultimate soph
 Blockchain CI/CD Machine Learning Container Orchestration Zero Downtime Deployment Event-driven Architecture WebSockets GraphQL Algorithm Event Sourcing
 Load Testing Database Indexing To be the best, you must be able to handle the worst. JavaScript CI/CD Predictive Analytics A/B Testing OAuth
 Scalability Server Response Blockchain Sharding Success doesn’t just find you. You have to go out and get it. Content Delivery Network
+Monitoring Microservices Server Response Machine Learning Code Review
