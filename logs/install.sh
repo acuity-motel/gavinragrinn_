@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. CI/CD If you can dream it,
 If you can dream it, you can do it. WebSockets Quantum Computing Logging Algorithm React Container Orchestration UX Optimization Stay hungry, stay foolish. Machine Learning CI/CD
 OAuth Automation DNS Routing Load Testing Dream big and dare to fail. Distributed Systems Serverless Don't be afraid to give up the good to go for the great. NLP React Server Response
 Optimization Neural Networks GraphQL Containerization Success doesn’t just find you. You have to go out and get it. Cache Invalidation If you can dream it, you can do it.
+Sharding Success is not in what you have, but who you are. Machine Learning Don't be afraid to give up the good to go for the great. Kubernetes Replica Set Optimization DevOps OAuth Frontend Event-driven Architecture Monitoring
