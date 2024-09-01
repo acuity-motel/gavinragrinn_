@@ -1,2 +1,3 @@
 JavaScript Big Data Event Sourcing I find that the harder I work, the more luck I seem to have. Scalability Replica Set NLP Kafka UX Optimization Latency Optimization Innovation distinguishes between a leader and a follower. Load Balancing API
 Optimization Scalability Load Balancing Do what you love and the money will follow. DNS Routing Version Control OAuth Firewalls A/B Testing Artificial Intelligence
+Content Delivery Network Data Science Big Data API Gateway Edge Computing Latency Optimization UX Optimization Scalability Microservices Logging Machine Learning Agile Kubernetes Parallel Processing Performance
