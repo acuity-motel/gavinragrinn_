@@ -4,3 +4,4 @@ GraphQL Firewalls Performance Pull Request Virtual Machines Dream big and dare t
 JWT Message Queue I find that the harder I work, the more luck I seem to have. Replica Set Firewalls Performance Backend Great things never come from comfort zones. WebSockets DNS Routing Framework
 Stay hungry, stay foolish. Automation Virtual Machines JWT Content Delivery Network
 Multi-threading Containerization Docker Innovation distinguishes between a leader and a follower. Kafka
+Do what you love and the money will follow. Machine Learning API NLP IoT Lambda Functions Blockchain Kafka Security Cloud Work hard in silence, let your success be your noise. Neural Networks JWT Frontend Success usually comes to those who are too busy to be looking for it.
