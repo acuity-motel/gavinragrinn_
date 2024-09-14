@@ -5,3 +5,4 @@ Opportunities don't happen. You create them. UX Optimization OAuth Version Contr
 Machine Learning To be the best, you must be able to handle the worst. Neural Networks If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Kafka Frontend I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Docker Stay hungry, stay foolish.
 JavaScript Event-driven Architecture Optimization Deployment Load Testing Event Sourcing Backend Docker Cloud Functions Great things never come from comfort zones. Container Orchestration
 Database A/B Testing DNS Routing To be the best, you must be able to handle the worst. Data Science Logging Replica Set Kubernetes Big Data Quantum Computing
+Firewalls The only way to do great work is to love what you do. Deployment React UX Optimization
