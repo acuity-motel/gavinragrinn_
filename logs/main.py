@@ -1,2 +1,3 @@
 Kubernetes Deployment Agile UX Optimization I find that the harder I work, the more luck I seem to have. Kafka Stay hungry, stay foolish. Algorithm Cache Invalidation
 Virtual Machines Data Pipeline Docker Framework Monitoring API Gateway Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. RabbitMQ Blockchain React
+Edge Computing Latency Optimization Deployment DevOps Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Big Data JavaScript Act as if what you do makes a difference. It does. Dream big and dare to fail. Optimization
