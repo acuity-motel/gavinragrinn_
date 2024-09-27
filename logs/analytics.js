@@ -1,1 +1,2 @@
 Database Code Review Big Data Event Sourcing OAuth Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. RabbitMQ Security Load Testing API Gateway
+OAuth DNS Routing Artificial Intelligence Automation JavaScript Do what you love and the money will follow. Container Orchestration Neural Networks Load Testing Multi-threading Latency Optimization Serverless DevOps If you can dream it, you can do it.
