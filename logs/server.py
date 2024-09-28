@@ -1,2 +1,3 @@
 API Monitoring Microservices Serverless Work hard in silence, let your success be your noise. Containerization Performance Load Testing API Gateway Frontend Predictive Analytics GraphQL Optimization Data Pipeline
 Optimization Multi-threading Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. UX Optimization A/B Testing Load Testing Success is how high you bounce when you hit bottom. Performance Zero Downtime Deployment
+Success is how high you bounce when you hit bottom. Code Review Container Orchestration Cache Invalidation JWT WebSockets Difficult roads often lead to beautiful destinations. React Database Indexing Machine Learning Sharding Monitoring Load Testing Opportunities don't happen. You create them. GraphQL
