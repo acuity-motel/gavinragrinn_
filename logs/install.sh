@@ -1,2 +1,3 @@
 Load Testing Don't be afraid to give up the good to go for the great. DNS Routing Cloud If you can dream it, you can do it. Data Science React Stay hungry, stay foolish. Simplicity is the ultimate sophistication.
 To be the best, you must be able to handle the worst. CI/CD If you can dream it, you can do it. Distributed Systems Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Load Testing Algorithm Difficult roads often lead to beautiful destinations. Server Response
+If you can dream it, you can do it. WebSockets Quantum Computing Logging Algorithm React Container Orchestration UX Optimization Stay hungry, stay foolish. Machine Learning CI/CD
