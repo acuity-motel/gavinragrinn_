@@ -1,2 +1,3 @@
 Code Review Data Science Docker Multi-threading Don't be afraid to give up the good to go for the great. Distributed Systems
 Multi-threading Success usually comes to those who are too busy to be looking for it. Algorithm JWT Microservices
+Agile Event-driven Architecture Logging Zero Downtime Deployment Firewalls Success doesn’t just find you. You have to go out and get it. Docker
