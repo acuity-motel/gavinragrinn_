@@ -1,1 +1,2 @@
 Great things never come from comfort zones. OAuth React The only way to do great work is to love what you do. Data Pipeline Multi-threading Frontend Virtual Machines JWT
+Python If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. DNS Routing React Container Orchestration Lambda Functions Neural Networks Cache Invalidation Load Testing Act as if what you do makes a difference. It does. JWT Load Balancing NLP
