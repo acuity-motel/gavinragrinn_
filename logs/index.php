@@ -1,0 +1,1 @@
+Cloud Functions Database Do what you love and the money will follow. GraphQL Parallel Processing Opportunities don't happen. You create them. Multi-threading Happiness is not something ready made. It comes from your own actions. DevOps Sharding Kafka API Deployment
